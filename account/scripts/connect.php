@@ -7,9 +7,9 @@
 
 // for test
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "abutrust_db24";
+$username = "u379044712_omo";
+$password = "&e0$p94:S";
+$dbname = "u379044712_omo";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
