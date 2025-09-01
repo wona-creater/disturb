@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Garantrust</title>
+  <title>Mega Acces Swing</title>
 
   <link rel="shortcut icon" href="assets/images/fav1.png" type="image/x-icon">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -72,7 +72,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-  <title>Garantrust Bank</title>
+  <title>Mega Acces Swing</title>
 
   <!-- Fav Icon -->
   <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
@@ -125,35 +125,50 @@
           <div class="animation-preloader">
             <div class="spinner"></div>
             <div class="txt-loading">
-              <span data-text-preloader="G" class="letters-loading">
-                G
+              <span data-text-preloader="M" class="letters-loading">
+                M
+              </span>
+              <span data-text-preloader="e" class="letters-loading">
+                e
+              </span>
+              <span data-text-preloader="g" class="letters-loading">
+                g
               </span>
               <span data-text-preloader="a" class="letters-loading">
                 a
               </span>
-              <span data-text-preloader="r" class="letters-loading">
-                r
-              </span>
               <span data-text-preloader="a" class="letters-loading">
                 a
               </span>
-              <span data-text-preloader="n" class="letters-loading">
-                n
+              <span data-text-preloader="c" class="letters-loading">
+                c
               </span>
-              <span data-text-preloader="t" class="letters-loading">
-                t
+              <span data-text-preloader="c" class="letters-loading">
+                c
               </span>
-              <span data-text-preloader="r" class="letters-loading">
-                r
-              </span>
-              <span data-text-preloader="u" class="letters-loading">
-                u
+              <span data-text-preloader="e" class="letters-loading">
+                e
               </span>
               <span data-text-preloader="s" class="letters-loading">
                 s
               </span>
-              <span data-text-preloader="t" class="letters-loading">
-                t
+              <span data-text-preloader="s" class="letters-loading">
+                s
+              </span>
+              <span data-text-preloader="s" class="letters-loading">
+                s
+              </span>
+              <span data-text-preloader="w" class="letters-loading">
+                w
+              </span>
+              <span data-text-preloader="i" class="letters-loading">
+                i
+              </span>
+              <span data-text-preloader="n" class="letters-loading">
+                n
+              </span>
+              <span data-text-preloader="g" class="letters-loading">
+                g
               </span>
             </div>
           </div>
@@ -165,18 +180,7 @@
     <!-- main header -->
     <header class="main-header">
       <!-- header-top -->
-      <div class="header-top">
-        <div class="large-container">
-          <div class="top-inner">
-            <ul class="info-list clearfix">
-              <li>
-                <i class="icon-1"></i>
-                <a href="mailto:support@Garantrust.com">support@Garantrust.com</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
+     
       <!-- header-lower -->
       <div class="header-lower">
         <div class="large-container">
@@ -250,7 +254,7 @@
         <div class="contact-info">
           <h4>Contact Info</h4>
           <ul>
-            <li><a href="mailto:support@Garantrust.com">support@Garantrust.com</a></li>
+            <li><a href="mailto:access@megaaccesswing.com">access@megaaccesswing.com</a></li>
           </ul>
         </div>
       </nav>

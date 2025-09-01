@@ -1,67 +1,7 @@
- <!-- <div class="footer-section">
-        <div class="container pt-120">
-            <div class="row cus-mar pt-120 pb-120 justify-content-between wow fadeInUp">
-                <div class="col-xl-3 col-lg-3 col-md-4 col-6">
-                    <div class="footer-box">
-                        <a href="index.php" class="logo">
-                            <img src="assets/images/logo1.png" alt="logo" style="width: 131px; height: auto;">
-                        </a>
-                        <p>A modern, technology-first bank built for you and your growing business.</p>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-2 col-6">
-                    <div class="footer-box">
-                        <h5>Useful Links</h5>
-                        <ul class="footer-link">
-                            <li><a href="about.php">About us</a></li>
-                            <li><a href="products.php">Products</a></li>
-                            <li><a href="contact.php">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-2 col-6">
-                    <div class="footer-box">
-                        <h5>Support</h5>
-                        <ul class="footer-link">
-                            <li><a href="">Support@Garantrust.com</a></li>
-                            <li><a href="contact.php">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="footer-bottom">
-                        <div class="left">
-                            <p> Copyright © <a href="index.php">Garantrust Bank</a></p>
-                        </div>
-                        <div class="right">
-                            <a href="" class="cus-bor">Privacy </a>
-                            <a href="">Terms &amp; Condition </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="img-area">
-            <img src="assets/images/footer-Illu-left.png" class="left" alt="Images">
-            <img src="assets/images/footer-Illu-right.png" class="right" alt="Images">
-        </div>
-    </div>
-
-    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery-ui.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/fontawesome.js"></script>
-    <script src="assets/js/plugin/slick.js"></script>
-    <script src="assets/js/plugin/jquery.nice-select.min.js"></script>
-    <script src="assets/js/plugin/wow.min.js"></script>
-    <script src="assets/js/plugin/plugin.js"></script>
-    <script src="assets/js/main.js"></script>
-</body>
 
 
-</html> -->
+
+</html> 
 
 
  <!-- main-footer -->
@@ -126,7 +66,7 @@
      <div class="footer-bottom centred">
          <div class="auto-container">
              <div class="copyright">
-                 <p>Copyright 2023 by <a href="index.php">Garantrust</a>. All Right Reserved.</p>
+                 <p>Copyright 2023 by <a href="index.php">Megaaccesswing</a>. All Right Reserved.</p>
              </div>
          </div>
      </div>
@@ -175,101 +115,3 @@
  </html>
 
 
-
- <!-- BOOK STORE BACKUP -->
-
- <!-- <footer>
-     <div class="footer-top">
-         <div class="container">
-             <div class="row">
-                 <div class="col-lg-12">
-                     <div class="footer-top-menu bb-2">
-                         <nav>
-                             <ul>
-                                 <li><a href="index.php">home</a></li>
-                                 <li><a href="">contact us</a></li>
-                             </ul>
-                         </nav>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
-    
-     <div class="footer-mid ptb-50">
-         <div class="container">
-             <div class="row">
-                 <div class="col-lg-8 col-12">
-                     <div class="row">
-                         <div class="col-lg-4 col-md-4 col-12">
-                             <div class="single-footer br-2 xs-mb">
-                                 <div class="footer-title mb-20">
-                                     <h3>Products</h3>
-                                 </div>
-                                 <div class="footer-mid-menu">
-                                     <ul>
-                                         <li><a href="{{ route('contact') }}">About us</a></li>
-                                         <li><a href="#">Prices drop </a></li>
-                                         <li><a href="#">New products</a></li>
-                                         <li><a href="#">Best sales</a></li>
-                                     </ul>
-                                 </div>
-                             </div>
-                         </div>
-                         <div class="col-lg-4 col-md-4 col-12">
-                             <div class="single-footer br-2 xs-mb">
-                                 <div class="footer-title mb-20">
-                                     <h3>Our company</h3>
-                                 </div>
-                                 <div class="footer-mid-menu">
-                                     <ul>
-                                         <li><a href="{{ route('contact') }}">Contact us</a></li>
-                                     </ul>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-                 <div class="col-lg-4 col-12">
-                     <div class="single-footer mrg-sm">
-                         <div class="footer-title mb-20">
-                             <h3>STORE INFORMATION</h3>
-                         </div>
-                         <div class="footer-contact">
-                             <p><span>Email:</span> support@Garantrust.com</p>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
-  
-     <div class="footer-bottom">
-         <div class="container">
-             <div class="row bt-2">
-                 <div class="col-lg-6 col-md-6 col-12">
-                     <div class="copy-right-area">
-                         <p>&copy; 2023 <strong> Garantrust </strong></p>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
- </footer>
-
- <script src="b_assets/js/vendor/jquery-1.12.4.min.js"></script>
- <script src="b_assets/js/bootstrap.min.js"></script>
- <script src="b_assets/js/owl.carousel.min.js"></script>
- <script src="b_assets/js/jquery.meanmenu.js"></script>
- <script src="b_assets/js/wow.min.js"></script>
- <script src="b_assets/js/jquery.parallax-1.1.3.js"></script>
- <script src="b_assets/js/jquery.countdown.min.js"></script>
- <script src="b_assets/js/jquery.flexslider.js"></script>
- <script src="b_assets/js/chosen.jquery.min.js"></script>
- <script src="b_assets/js/jquery.counterup.min.js"></script>
- <script src="b_assets/js/waypoints.min.js"></script>
- <script src="b_assets/js/plugins.js"></script>
- <script src="b_assets/js/main.js"></script>
- </body>
-
- </html> -->

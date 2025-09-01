@@ -197,7 +197,7 @@ include('header.php')
                                     </h5>
                                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>If your card is missing, let us know immediately. We’ll block your card right away send over a new one on the same day.To report a lost or stolen card, contact support or email support@Garantrust.com.</p>
+                                            <p>If your card is missing, let us know immediately. We’ll block your card right away send over a new one on the same day.To report a lost or stolen card, contact support or email access@egaaccesswing.com.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -209,7 +209,7 @@ include('header.php')
                                     </h5>
                                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>Send us an email @support@Garantrust.com. You can also contact support from your account dashboard when you are logged in.</p>
+                                            <p>Send us an email access@megaaccesswing. You can also contact support from your account dashboard when you are logged in.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -267,7 +267,7 @@ include('header.php')
                     <div class="get-content">
                         <div class="section-text">
                             <h3 class="title">Ready to get started?</h3>
-                            <p>It only takes a few minutes to register your FREE Garantrust account.</p>
+                            <p>It only takes a few minutes to register your FREE Megaaccesswing account.</p>
                         </div>
                         <a href="account/index" class="cmn-btn">Open an Account</a>
                         <img src="assets/images/get-start.png" alt="images">
