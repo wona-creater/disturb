@@ -1,0 +1,19 @@
+
+
+--PHP Version required: 7.4
+
+--Database Connection file /account/scripts/connect.php\
+
+--You can upload to public_html, subdomain or a subfolder.
+
+
+ADMIN LOGIN
+--Admin URL path: /account/admin
+--Email: admin@gmail.com
+--Password: Change Password from phpmyadmin, using MD5 as VarChar
+
+
+--Import sql file from phpmyadmin
+--Change logo and favicon from admin
+--Go to general settings to customize website infomation
+--Setup Email SMTP settings

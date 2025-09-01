@@ -1,0 +1,70 @@
+[01-May-2023 10:57:11 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[01-May-2023 10:57:11 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[01-May-2023 11:06:55 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[01-May-2023 11:06:55 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[01-May-2023 16:50:35 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[01-May-2023 16:50:35 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[05-May-2023 18:52:18 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[05-May-2023 18:52:18 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[05-May-2023 18:53:15 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[05-May-2023 18:53:15 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[05-May-2023 19:30:59 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[05-May-2023 19:30:59 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[06-May-2023 13:20:46 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[06-May-2023 13:20:46 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[06-May-2023 15:12:47 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[06-May-2023 15:12:47 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[06-May-2023 19:35:20 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[06-May-2023 19:35:20 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[08-May-2023 07:40:56 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[08-May-2023 07:40:56 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[09-May-2023 16:15:16 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[09-May-2023 16:15:16 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[09-May-2023 16:15:28 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[09-May-2023 16:15:28 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[11-May-2023 20:56:03 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[11-May-2023 20:56:03 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[11-May-2023 20:57:35 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[11-May-2023 20:57:35 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[16-May-2023 11:50:55 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[16-May-2023 11:50:55 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[14-Jun-2023 13:05:09 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[14-Jun-2023 13:05:09 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[14-Jun-2023 13:15:12 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[14-Jun-2023 13:15:12 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[14-Jun-2023 13:50:50 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[14-Jun-2023 13:50:50 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[20-Jun-2023 23:37:59 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[20-Jun-2023 23:37:59 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[20-Jun-2023 23:38:18 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[20-Jun-2023 23:38:18 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[29-Jun-2023 09:14:29 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[29-Jun-2023 09:14:29 UTC] PHP Warning:  Undefined array key "accessBanking" in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[01-Jul-2023 19:42:03 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[01-Jul-2023 19:42:03 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[06-Jul-2023 09:23:18 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[06-Jul-2023 09:23:18 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[06-Jul-2023 09:49:49 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[06-Jul-2023 09:49:49 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[08-Jul-2023 12:26:09 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[08-Jul-2023 12:26:09 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[11-Jul-2023 01:26:41 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[11-Jul-2023 01:26:41 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[11-Jul-2023 01:27:20 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[11-Jul-2023 01:27:20 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[11-Jul-2023 19:04:44 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[11-Jul-2023 19:04:44 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[11-Jul-2023 19:20:31 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[11-Jul-2023 19:20:31 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[12-Jul-2023 03:24:10 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[12-Jul-2023 03:24:10 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[12-Jul-2023 18:05:16 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[12-Jul-2023 18:05:16 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[14-Jul-2023 00:30:13 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[14-Jul-2023 00:30:13 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[21-Jul-2023 09:34:58 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[21-Jul-2023 09:34:58 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[23-Jul-2023 12:31:17 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[23-Jul-2023 12:31:17 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
+[23-Jul-2023 14:34:53 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 409
+[23-Jul-2023 14:34:53 UTC] PHP Notice:  Undefined index: accessBanking in /home/iwebbtec/public_html/leggo/account/auth/index.php on line 425
