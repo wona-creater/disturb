@@ -2,7 +2,7 @@
 // for live server
 $servername = "localhost";
 $username = "u379044712_omo";
-$password = "&e0$p94:S";
+$password = "Helltocity.1/seagone";
 $dbname = "u379044712_omo";
 
 // for test
