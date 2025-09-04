@@ -1,9 +1,9 @@
 <?php
 // for live server ommit then save
 $servername = "localhost";
-$username = "u379044712_omo";
-$password = "Helltocity.1/seagone";
-$dbname = "u379044712_omo";
+$username = "";
+$password = "";
+$dbname = "";
 
 // for test
 // $servername = "localhost";
