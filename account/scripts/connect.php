@@ -1,15 +1,15 @@
 <?php
 // for live server ommit then save
 $servername = "localhost";
-$username = "";
-$password = "";
-$dbname = "";
+$username = "u379044712_omo";
+$password = "Helltocity.1/seagone";
+$dbname = "u379044712_omo";
 
 // for test
 // $servername = "localhost";
-// $username = "";
+// $username = "root";
 // $password = "";
-// $dbname = "";
+// $dbname = "news";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);

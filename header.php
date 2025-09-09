@@ -1,4 +1,3 @@
-
 <html class="no-js" lang="en">
 
 
@@ -19,30 +18,30 @@
   <link href="../css2-1?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
   <!-- Stylesheets -->
-  <link href="/assets/css/font-awesome-all.css" rel="stylesheet">
-  <link href="/assets/css/flaticon.css" rel="stylesheet">
-  <link href="/assets/css/owl.css" rel="stylesheet">
-  <link href="/assets/css/bootstrap.css" rel="stylesheet">
-  <link href="/assets/css/jquery.fancybox.min.css" rel="stylesheet">
-  <link href="/assets/css/animate.css" rel="stylesheet">
-  <link href="/assets/css/nice-select.css" rel="stylesheet">
-  <link href="/assets/css/elpath.css" rel="stylesheet">
-  <link href="/assets/css/color/theme-color.css" id="jssDefault" rel="stylesheet">
-  <link href="/assets/css/switcher-style.css" rel="stylesheet">
-  <link href="/assets/css/rtl.css" rel="stylesheet">
-  <link href="/assets/css/style.css" rel="stylesheet">
-  <link href="/assets/css/module-css/banner.css" rel="stylesheet">
-  <link href="/assets/css/module-css/feature.css" rel="stylesheet">
-  <link href="/assets/css/module-css/about.css" rel="stylesheet">
-  <link href="/assets/css/module-css/service.css" rel="stylesheet">
-  <link href="/assets/css/module-css/calculator.css" rel="stylesheet">
-  <link href="/assets/css/module-css/video.css" rel="stylesheet">
-  <link href="/assets/css/module-css/funfact.css" rel="stylesheet">
-  <link href="/assets/css/module-css/apps.css" rel="stylesheet">
-  <link href="/assets/css/module-css/testimonial.css" rel="stylesheet">
-  <link href="/assets/css/module-css/news.css" rel="stylesheet">
-  <link href="/assets/css/module-css/subscribe.css" rel="stylesheet">
-  <link href="/assets/css/responsive.css" rel="stylesheet">
+  <link href="./assets/css/font-awesome-all.css" rel="stylesheet">
+  <link href="./assets/css/flaticon.css" rel="stylesheet">
+  <link href="./assets/css/owl.css" rel="stylesheet">
+  <link href="./assets/css/bootstrap.css" rel="stylesheet">
+  <link href="./assets/css/jquery.fancybox.min.css" rel="stylesheet">
+  <link href="./assets/css/animate.css" rel="stylesheet">
+  <link href="./assets/css/nice-select.css" rel="stylesheet">
+  <link href="./assets/css/elpath.css" rel="stylesheet">
+  <link href="./assets/css/color/theme-color.css" id="jssDefault" rel="stylesheet">
+  <link href="./assets/css/switcher-style.css" rel="stylesheet">
+  <link href="./assets/css/rtl.css" rel="stylesheet">
+  <link href="./assets/css/style.css" rel="stylesheet">
+  <link href="./assets/css/module-css/banner.css" rel="stylesheet">
+  <link href="./assets/css/module-css/feature.css" rel="stylesheet">
+  <link href="./assets/css/module-css/about.css" rel="stylesheet">
+  <link href="./assets/css/module-css/service.css" rel="stylesheet">
+  <link href="./assets/css/module-css/calculator.css" rel="stylesheet">
+  <link href="./assets/css/module-css/video.css" rel="stylesheet">
+  <link href="./assets/css/module-css/funfact.css" rel="stylesheet">
+  <link href="./assets/css/module-css/apps.css" rel="stylesheet">
+  <link href="./assets/css/module-css/testimonial.css" rel="stylesheet">
+  <link href="./assets/css/module-css/news.css" rel="stylesheet">
+  <link href="./assets/css/module-css/subscribe.css" rel="stylesheet">
+  <link href="./assets/css/responsive.css" rel="stylesheet">
 
 </head>
 
@@ -50,9 +49,18 @@
 <!-- page wrapper -->
 
 <body>
+  <div id="google_translate_element"></div>
+
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'en'
+      }, 'google_translate_element');
+    }
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
   <div class="boxed_wrapper ltr">
-
 
     <!-- preloader -->
     <div class="loader-wrap">
@@ -114,10 +122,11 @@
     </div>
     <!-- preloader end -->
 
+
     <!-- main header -->
     <header class="main-header">
       <!-- header-top -->
-     
+
       <!-- header-lower -->
       <div class="header-lower">
         <div class="large-container">
@@ -196,134 +205,3 @@
         </div>
       </nav>
     </div><!-- End Mobile Menu -->
-
-
-    <!-- BOOK STORE BACKUP -->
-
-    <!-- <!doctype html>
-<html class="no-js" lang="en">
-
-
-
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Garantrust – Book Shop </title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <link rel="shortcut icon" type="image/x-icon" href="b_assets/img/favicon.png">
-
-
-  <link rel="stylesheet" href="b_assets/css/bootstrap.min.css">
-  <link rel="stylesheet" href="b_assets/css/animate.css">
-  <link rel="stylesheet" href="b_assets/css/meanmenu.min.css">
-  <link rel="stylesheet" href="b_assets/css/owl.carousel.css">
-  <link rel="stylesheet" href="b_assets/css/font-awesome.min.css">
-  <link rel="stylesheet" href="b_assets/css/flexslider.css">
-  <link rel="stylesheet" href="b_assets/css/chosen.min.css">
-  <link rel="stylesheet" href="b_assets/css/style.css">
-  <link rel="stylesheet" href="b_assets/css/responsive.css">
-  <script src="b_assets/js/vendor/modernizr-2.8.3.min.js"></script>
-</head>
-
-<body class="home-2">
-
-  <header>
-    <div class="header-top-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 col-md-6 col-12">
-            <div class="language-area">
-              <ul>
-                <li><img src="b_assets/img/flag/1.jpg" alt="flag" /><a href="#">English<i class="fa fa-angle-down"></i></a>
-                  <div class="header-sub">
-                    <ul>
-                      <li><a href="#"><img src="b_assets/img/flag/2.jpg" alt="flag" />france</a></li>
-                      <li><a href="#"><img src="b_assets/img/flag/3.jpg" alt="flag" />croatia</a></li>
-                    </ul>
-                  </div>
-                </li>
-                <li><a href="#">USD $<i class="fa fa-angle-down"></i></a>
-                  <div class="header-sub dolor">
-                    <ul>
-                      <li><a href="#">EUR €</a></li>
-                      <li><a href="#">USD $</a></li>
-                    </ul>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="header-mid-area ptb-40">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-12 col-md-12 col-12">
-            <div class="logo-area text-center logo-xs-mrg">
-              <a href="index.php"><img src="b_assets/img/logo/logo2.png" alt="logo" /></a>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="main-menu-area d-md-none d-none d-lg-block sticky-header-1" id="header-sticky">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="menu-area">
-              <nav>
-                <ul>
-                  <li class="active"><a href="index.php">Home<i class=""></i></a>
-                  </li>
-                  <li><a href="shop.php">Fiction<i class=""></i></a>
-                  </li>
-                  <li><a href="shop.php">Audio books<i class=""></i></a>
-                  </li>
-                  <li><a href="shop.php">children’s books<i class=""></i></a>
-                  </li>
-                  <li><a href="shop.php">Academic<i class=""></i></a>
-                  </li>
-                  <li><a href="shop.php">Business<i class=""></i></a>
-                  </li>
-                </ul>
-              </nav>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="mobile-menu-area d-lg-none d-block fix">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="mobile-menu">
-              <nav id="mobile-menu-active">
-                <ul id="nav">
-                  <li><a href="index.php">Home</a>
-                  </li>
-                  <li><a href="shop.php">Fiction</a>
-                  </li>
-                  <li><a href="shop.php">Audio books</a>
-                  </li>
-                  <li><a href="shop.php">children’s books</a>
-                  </li>
-                  <li><a href="shop.php">Academic</a>
-                  </li>
-                  <li><a href="shop.php">Business</a>
-                  </li>
-                </ul>
-              </nav>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header> -->

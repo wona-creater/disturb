@@ -1,6 +1,6 @@
+
 <?php 
 include("header.php");
-
 ?>
 <div class="nk-content">
 	<?php echo$stockrate ?>
@@ -24,8 +24,11 @@ include("header.php");
                      while ($rows = mysqli_fetch_array($query)) {
                         if($rows['status'] == 1){
                             $stat = "<strong class='text-success'>Completed</strong>";
-                        }else{ $stat = "<strong class='text-danger'>Pending</strong>"; }
-                         
+                        } elseif($rows['status'] == 2){
+                            $stat = "<strong class='text-danger'>Failed</strong>";
+                        } else {
+                            $stat = "<strong class='text-danger'>Pending</strong>";
+                        }
                     ?>
                     <tr>
                       <td><?php echo$rows['refNumber']; ?></td>    
@@ -44,5 +47,4 @@ include("header.php");
 </div>
 <?php 
 include("footer.php");
-
 ?>
